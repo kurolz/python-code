@@ -1,6 +1,9 @@
 # python-code
 The code of Python.
 
+@@ [我的个人博客] http://www.mykurol.com
+
+
 猜数字小游戏：
 Game-GuessNumbers.py
 
